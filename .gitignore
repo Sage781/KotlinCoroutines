@@ -1,0 +1,29 @@
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+logs
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target
+nacos
